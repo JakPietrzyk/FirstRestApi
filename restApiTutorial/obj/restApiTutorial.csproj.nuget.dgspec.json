@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#_MyProjects\\restApiTutorial\\restApiTutorial\\restApiTutorial.csproj": {}
+    "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj": {}
   },
   "projects": {
-    "C:\\c#_MyProjects\\restApiTutorial\\restApiTutorial\\restApiTutorial.csproj": {
+    "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#_MyProjects\\restApiTutorial\\restApiTutorial\\restApiTutorial.csproj",
+        "projectUniqueName": "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj",
         "projectName": "restApiTutorial",
-        "projectPath": "C:\\c#_MyProjects\\restApiTutorial\\restApiTutorial\\restApiTutorial.csproj",
+        "projectPath": "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj",
         "packagesPath": "C:\\Users\\spekt\\.nuget\\packages\\",
-        "outputPath": "C:\\c#_MyProjects\\restApiTutorial\\restApiTutorial\\obj\\",
+        "outputPath": "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
