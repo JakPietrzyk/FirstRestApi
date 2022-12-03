@@ -64,3 +64,14 @@ E:\C#_Projects\FirstRestApi\restApiTutorial\obj\Debug\net7.0\scopedcss\bundle\re
 E:\C#_Projects\FirstRestApi\restApiTutorial\obj\Debug\net7.0\restApiTutorial.csproj.CopyComplete
 E:\C#_Projects\FirstRestApi\restApiTutorial\obj\Debug\net7.0\restApiTutorial.genruntimeconfig.cache
 E:\C#_Projects\FirstRestApi\restApiTutorial\obj\Debug\net7.0\ref\restApiTutorial.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\DnsClient.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\MongoDB.Bson.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\MongoDB.Driver.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\SharpCompress.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\Snappier.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\ZstdSharp.dll
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+E:\C#_Projects\FirstRestApi\restApiTutorial\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll

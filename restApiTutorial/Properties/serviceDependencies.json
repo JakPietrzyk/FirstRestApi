@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "mongodb1": {
+      "type": "mongodb",
+      "connectionId": "e439e3a6714310ce89f9711b3b116b5e142fa3faa9bd635b1213528287291ed9",
+      "dynamicId": null
+    }
+  }
+}
