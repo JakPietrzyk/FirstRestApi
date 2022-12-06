@@ -9,6 +9,7 @@
       "restApiTutorial/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
+          "Microsoft.Configuration.ConfigurationBuilders.UserSecrets": "2.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.0",
           "MongoDB.Driver": "2.18.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -36,6 +37,25 @@
           "lib/net7.0/Microsoft.AspNetCore.OpenApi.dll": {
             "assemblyVersion": "7.0.0.0",
             "fileVersion": "7.0.22.51819"
+          }
+        }
+      },
+      "Microsoft.Configuration.ConfigurationBuilders.Base/2.0.0": {
+        "runtime": {
+          "lib/Net471/Microsoft.Configuration.ConfigurationBuilders.Base.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20220.0"
+          }
+        }
+      },
+      "Microsoft.Configuration.ConfigurationBuilders.UserSecrets/2.0.0": {
+        "dependencies": {
+          "Microsoft.Configuration.ConfigurationBuilders.Base": "2.0.0"
+        },
+        "runtime": {
+          "lib/Net471/Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20220.0"
           }
         }
       },
@@ -217,6 +237,20 @@
       "sha512": "sha512-P1mkNhZ3IwU3phNLIUkgqVXb1exnooTalIYwpSON3oKKkcRtACDgS4WpO+xnwFw4KzV0bmgkUqB3acXxIefvvg==",
       "path": "microsoft.aspnetcore.openapi/7.0.0",
       "hashPath": "microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Configuration.ConfigurationBuilders.Base/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-elJJustKSvMNXD08UiYwtYBIvegSXE7IVV6XScbe4EBaQ4dtijhKauUSNloKUZ6FcEALQhH9Wf3L6sDvEGdJ/A==",
+      "path": "microsoft.configuration.configurationbuilders.base/2.0.0",
+      "hashPath": "microsoft.configuration.configurationbuilders.base.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.Configuration.ConfigurationBuilders.UserSecrets/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9QHbDZjA0M+7jAYwk7OOnEfQrylJVoeLpawpaRQP3rhNypHAwzbmk1R+6MXCrl3NJF8f2QCoKYM6BzlgkGodbw==",
+      "path": "microsoft.configuration.configurationbuilders.usersecrets/2.0.0",
+      "hashPath": "microsoft.configuration.configurationbuilders.usersecrets.2.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",

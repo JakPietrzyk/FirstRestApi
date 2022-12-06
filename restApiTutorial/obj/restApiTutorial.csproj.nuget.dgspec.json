@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj": {}
+    "C:\\c#_MyProjects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj": {}
   },
   "projects": {
-    "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj": {
+    "C:\\c#_MyProjects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj",
+        "projectUniqueName": "C:\\c#_MyProjects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj",
         "projectName": "restApiTutorial",
-        "projectPath": "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj",
+        "projectPath": "C:\\c#_MyProjects\\FirstRestApi\\restApiTutorial\\restApiTutorial.csproj",
         "packagesPath": "C:\\Users\\spekt\\.nuget\\packages\\",
-        "outputPath": "E:\\C#_Projects\\FirstRestApi\\restApiTutorial\\obj\\",
+        "outputPath": "C:\\c#_MyProjects\\FirstRestApi\\restApiTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,6 +50,10 @@
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.18.0, )"
+            },
+            "MongoDB.HealthCheck": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
